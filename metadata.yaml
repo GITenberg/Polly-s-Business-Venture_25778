@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1910'
     url: http://www.gutenberg.org/2009/agents/1910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25778#Polly-s-Business-Venture
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2008-06-13'
 gutenberg_type: Text
